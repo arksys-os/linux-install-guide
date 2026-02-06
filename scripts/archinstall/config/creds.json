@@ -1,8 +1,8 @@
 {
-    "!root-password": "123",
+    "!root-password": "REPLACE_ME",
     "!users": [
         {
-            "!password": "123",
+            "!password": "REPLACE_ME",
             "sudo": true,
             "username": "ark"
         }

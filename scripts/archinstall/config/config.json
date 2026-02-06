@@ -13,7 +13,7 @@
         "config_type": "default_layout",
         "device_modifications": [
             {
-                "device": "/dev/nvme0n1",
+                "device": "/dev/DEVICE",
                 "partitions": [
                     {
                         "btrfs": [],
@@ -147,7 +147,7 @@
         "firefox",
         "obsidian"
     ],
-    "parallel downloads": 2,
+    "parallel_downloads": 2,
     "profile_config": {
         "gfx_driver": "Nvidia (proprietary)",
         "greeter": "sddm",
